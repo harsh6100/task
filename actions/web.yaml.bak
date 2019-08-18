@@ -1,6 +1,6 @@
 ---
 name: Angaj
-pack: Angaj
+pack: hello_st2
 runner_type: "python-script"
 description: Open web!
 enabled: true

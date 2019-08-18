@@ -1,7 +1,7 @@
 ---
 
 ref: Angaj
-name:task1
+name:Angaj
 description: Simple pack containing examples of sensor, rule, and action.
 
     - actions
