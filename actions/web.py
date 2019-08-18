@@ -1,7 +1,9 @@
 import requests as req
 import webbrowser as web
 
-resp = req.get("http://www.github.com")
+from st2common.runners.base_action import Action
+
+resp = req.get(url)
 
 print(resp.status_code)
 print(resp.history)
