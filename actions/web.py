@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests as req
 import webbrowser as web
 
