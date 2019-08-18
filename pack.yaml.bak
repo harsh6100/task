@@ -1,6 +1,6 @@
 ---
 
-ref: task1
+ref: hello_st2
 # User-friendly pack name. If this attribute contains spaces or any other special characters, then
 # the "ref" attribute must also be specified (see above).
 name: task1
@@ -10,8 +10,6 @@ description: Simple pack containing examples of sensor, rule, and action.
 keywords:
     - action
     - task1
-    -requests
-    -webbrowser
 # Pack version which must follow semver format (<major>.<minor>.<patch> e.g. 1.0.0)
 version: 3.1.0
 # A list of major Python versions pack is tested with and works with.
