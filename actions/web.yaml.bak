@@ -4,7 +4,7 @@ pack: task1
 runner_type: "python-script"
 description: Open web!
 enabled: true
-entry_point: action1.py
+entry_point: web.py
 parameters:
     greeting:
         type: string

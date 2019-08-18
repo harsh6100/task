@@ -1,6 +1,6 @@
 ---
 name: Angaj
-pack: task1
+pack: Angaj
 runner_type: "python-script"
 description: Open web!
 enabled: true
