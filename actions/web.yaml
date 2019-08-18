@@ -5,9 +5,3 @@ runner_type: "python-script"
 description: Open web!
 enabled: true
 entry_point: web.py
-parameters:
-    greeting:
-        type: string
-        description: open a web using stackstorm (i.e. Hello, Hi, Yo, etc.)
-        required: true
-        position: 1
