@@ -13,6 +13,7 @@ version: 3.1.0
 
 python_versions:
   - "2"
+  - "3"
 author: Angaj
 
 email: rajshahu95@gmail.com
