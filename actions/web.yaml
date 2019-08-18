@@ -1,11 +1,10 @@
 ---
-name: Angaj
-pack: hello_st2
+name: task_1
+pack: hello_angaj
 runner_type: "python-script"
-description: Open web!
+description: action open web response!
 enabled: true
 entry_point: web.py
-
 parameters:
      url:
         type: string
