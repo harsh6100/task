@@ -8,10 +8,10 @@ name: task1
 description: Simple pack containing examples of sensor, rule, and action.
 # Keywords which are used when searching for packs.
 keywords:
-    - action
+    - actions
     - task1
-    -requests
-    -webbrowser
+    - requests
+    - webbrowser
 # Pack version which must follow semver format (<major>.<minor>.<patch> e.g. 1.0.0)
 version: 3.1.0
 # A list of major Python versions pack is tested with and works with.
